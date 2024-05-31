@@ -1,0 +1,105 @@
+{
+	"devices":{
+		"airquality": {
+			"sensingPeriod": 20,
+			"dataTypes":["air_quality"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"door": {
+			"sensingPeriod": 10,
+			"dataTypes":["door"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"humidity": {
+			"sensingPeriod": 20,
+			"dataTypes":["humidity"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"light": {
+			"sensingPeriod": 5,
+			"dataTypes":["lighting"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"motion": {
+			"sensingPeriod": 10,
+			"dataTypes":["motion"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"noise": {
+			"sensingPeriod": 5,
+			"dataTypes":["noise"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"proximity": {
+			"sensingPeriod": 10,
+			"dataTypes":["proximity"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"rfid": {
+			"sensingPeriod": 10,
+			"dataTypes":["rfid"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"temperature": {
+			"sensingPeriod": 20,
+			"dataTypes":["temperature"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+		"camera": {
+			"sensingPeriod": 2,
+			"dataTypes":["video"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 0
+		},
+
+	}, 
+	"virtualsensors": {
+		"virtual_occupancy": {
+			"subscriptions": ["topic/+/rfid", "topic/+/video"],
+			"dataTypesProvided": ["occupancy"]
+		},
+		"queue_management": {
+			"subscriptions": ["topic/+/rfid"],
+			"dataTypesProvided": ["queueing"]
+		},
+		"virtual_security": {
+			"subscriptions": ["topicSmart /+/video", "topic/+/motion", "topic/+/door"],
+			"dataTypesProvided": ["security"]
+		},
+		"predictive_maintenance": {
+			"subscriptions": ["topic/+/temperature", "topic/+/humidity", "topic/+/air_quality", "topic/+/proximity", "topic/+/noise"],
+			"dataTypesProvided": ["maintenance"]
+		},
+		"environmental_analysis": {
+			"subscriptions": ["topic/+/temperature", "topic/+/humidity", "topic/+/air_quality"],
+			"dataTypesProvided": ["environment"]
+		},
+
+	},
+	"applications":{
+		"smart_lighting": {
+			"subscriptions": ["topic/+/lighting"]
+		},
+		"security": {
+			"subscriptions": ["topic/security"]
+		},
+		"visitor_guiding": {
+			"subscriptions": ["topic/occupancy", "topic/queueing"]
+		}, 
+		"maintenance": {
+			"subscriptions": ["topic/maintenance"]
+		},
+		"metaverse": {
+			"subscriptions": ["topic/+/lighting", "topic/+/noise", "topic/+/rfid"]
+		}
+	}
+}

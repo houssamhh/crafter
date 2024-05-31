@@ -1,0 +1,15 @@
+{
+	"location": "edge1",
+	"devices": {
+		},
+	"virtualsensors": {
+		"queue_management": 1,
+		"virtual_security": 1,
+		},
+	"applications":{
+		},
+	"visitors":{
+	"periods": [60, 60, 60],
+	"nbpeople": [35, 35, 35]
+}
+}

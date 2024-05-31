@@ -1,0 +1,18 @@
+{
+	"location": "metaverse",
+	"devices": {
+		},
+	"virtualsensors": {
+		},
+	"applications":{
+		"metaverse": 1,
+		"visitor_guiding": 1,
+		"smart_lighting": 1,
+		"security": 1,
+		"maintenance": 1
+		},
+	"visitors":{
+	"periods": [60, 60, 60],
+	"nbpeople": %nbpeople%
+	}
+}

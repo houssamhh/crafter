@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<CustomLevels>
+		<CustomLevel name="SUB" intLevel="700" />
+		<CustomLevel name="NOTICE" intLevel="450" />
+		<CustomLevel name="VERBOSE" intLevel="550" />
+	</CustomLevels>
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d [%p] %c{1.} %m%n" />
+		</Console>
+		<File name="File" fileName="/mnt/results/mylog.log">
+			<PatternLayout pattern="%d [%p] %c{1.} %m%n" />
+		</File>
+	</Appenders>
+	<Loggers>
+		<Logger name="commons" level="debug" />
+		<Root level="info">
+			<AppenderRef ref="File" />
+		</Root>
+	</Loggers>
+</Configuration>

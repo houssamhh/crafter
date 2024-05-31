@@ -1,0 +1,23 @@
+{
+	"location": "V",
+	"devices": {
+		"airquality": 1,
+		"door": 1,
+		"humidity": 1,
+		"light": 1,
+		"motion": 2,
+		"noise": 1,
+		"proximity": 1,
+		"rfid": 1,
+		"temperature": 1,
+		"camera": 1
+		},
+	"virtualsensors": {
+		},
+	"applications":{
+		},
+	"visitors":{
+	"periods": [60, 60, 60],
+	"nbpeople": [5, 5, 5]
+}
+}

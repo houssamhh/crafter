@@ -1,0 +1,24 @@
+{
+	"location": "entrance",
+	"devices": {
+		"airquality": 1,
+		"door": 1,
+		"humidity": 1,
+		"light": 1,
+		"motion": 1,
+		"noise": 1,
+		"proximity": 1,
+		"rfid": 1,
+		"temperature": 1,
+		"camera": 1
+		},
+	"virtualsensors": {
+		"virtual_occupancy": 1,
+		"queue_management": 1,
+		"virtual_security": 1,
+		"predictive_maintenance": 1,
+		"environmental_analysis": 1
+		},
+	"applications":{
+		}
+}

@@ -1,0 +1,16 @@
+{
+	"location": "edge2",
+	"devices": {
+		},
+	"virtualsensors": {
+		"virtual_occupancy": 1,
+		"environmental_analysis": 1,
+		"predictive_maintenance": 1
+		},
+	"applications":{
+		},
+	"visitors":{
+	"periods": [60, 60, 60],
+	"nbpeople": %nbpeople%
+}
+}

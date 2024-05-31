@@ -1,0 +1,41 @@
+{
+	"devices":{
+		"temperaturesensor": {
+			"sensingPeriod":%tmpsensingperiod%,
+			"dataTypes":["temperature"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 30
+		},
+		"rfidsensor": {
+			"sensingPeriod": %rfidsensingperiod%,
+			"dataTypes": ["rfid"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration": 30
+		},
+		"motionsensor": {
+			"sensingMean": %motionsensingmean%,
+			"sensingStd": %motionsensingstd%,
+			"dataTypes": ["motion"],
+			"unavailabilityProbability": 0,
+			"unavailabilityDuration":30
+		}
+	}, 
+	"virtualsensors": {
+		"virtualsensor1": {
+			"dataTypesNeeded": ["temperature", "motion"],
+			"dataTypesProvided": ["comfort_level"]
+		},
+		"virtualsensor2": {
+			"dataTypesNeeded": ["rfid"],
+			"dataTypesProvided": ["visitor_flow"]
+		}
+	},
+	"applications":{
+		"application1": {
+			"dataTypesNeeded": ["comfort_level"]
+		},
+		"application2": {
+			"dataTypesNeeded": ["visitor_flow"]
+		}
+	}
+}

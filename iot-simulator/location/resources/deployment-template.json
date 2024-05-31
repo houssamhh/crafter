@@ -1,0 +1,16 @@
+{
+	"location": "location1",
+	"devices": {
+		"temperaturesensor": %nbtmpsensor%,
+		"rfidsensor": %nbrfidsensor%,
+		"motionsensor": %nbmotionsensor%
+		},
+	"virtualsensors": {
+		"virtualsensor1": %nbvsensor1%,
+		"virtualsensor2": %nbvsensor2%,
+		},
+	"applications":{
+		"application1": %nbapp1%,
+		"application2": %nbapp2%
+		}
+}
