@@ -76,10 +76,10 @@ def mapCongestion(congestion):
     
 
 def getResourceConsumption(config):
-    cpu_consumption_file_1 = '../training/dataset/' + config + '/edge1/resources_monitoring.csv'
+    cpu_consumption_file_1 = '../RL/dataset/' + config + '/edge1/resources_monitoring.csv'
     df = pd.read_csv(cpu_consumption_file_1, names=['timestamp', 'cpu', 'mem', 'disk'])
     cpu_consumption_mean_1 = df.loc[:, 'cpu'].mean()
-    cpu_consumption_file_2 = '../training/dataset/' + config + '/edge2/resources_monitoring.csv'
+    cpu_consumption_file_2 = '../RL/dataset/' + config + '/edge2/resources_monitoring.csv'
     df = pd.read_csv(cpu_consumption_file_2, names=['timestamp', 'cpu', 'mem', 'disk'])
     cpu_consumption_mean_2 = df.loc[:, 'cpu'].mean()
     cpu_consumption_mean = ((cpu_consumption_mean_1 + cpu_consumption_mean_2) / 2) * 100  # in percent
@@ -187,7 +187,7 @@ def getAverageBandwidthNeeded(nb_visitors):
     
 
 def getLocationResponseTime(config, location):
-    file_path = '../training/dataset/{}/metaverse/results.csv'.format(config)
+    file_path = '../RL/dataset/{}/metaverse/results.csv'.format(config)
     df = pd.read_csv(file_path, names=['timestamp', 'sensorid', 'observation', 'location', 'latency'])
     filtered_df = df[df['observation'].str.contains('topic/{}'.format(location.lower()))]
     average_response_time = filtered_df['latency'].mean()
@@ -195,7 +195,7 @@ def getLocationResponseTime(config, location):
 
 def getResponseTimePerApplication(config):
     response_times_dict = dict()
-    file_path = '../training/dataset/{}/metaverse/results.csv'.format(config)
+    file_path = '../RL/dataset/{}/metaverse/results.csv'.format(config)
     df = pd.read_csv(file_path, names=['timestamp', 'sensorid', 'observation', 'location', 'latency'])
     for app, topics in subscriptions.items():
         pattern = '|'.join(topics)
@@ -232,14 +232,14 @@ def getLocationTraffic(location, total_visitors):
 def getNodeResponseTime(config, node):
     topics = virtual_sensors_deployment_map[node.lower()]
     pattern = '|'.join(topics)
-    file_path = '../training/dataset/{}/metaverse/results.csv'.format(config)
+    file_path = '../RL/dataset/{}/metaverse/results.csv'.format(config)
     df = pd.read_csv(file_path, names=['timestamp', 'sensorid', 'observation', 'location', 'bandwidth', 'latency'])
     filtered_df = df[df['observation'].str.contains('topic/{}'.format(pattern))]
     average_response_time = filtered_df['latency'].mean()
     return average_response_time
 
 def getNodeResourceConsumption(config, node):
-    cpu_consumption_file = '../training/dataset/{}/{}/resources_monitoring.csv'.format(config, node)
+    cpu_consumption_file = '../RL/dataset/{}/{}/resources_monitoring.csv'.format(config, node)
     df = pd.read_csv(cpu_consumption_file, names=['timestamp', 'cpu', 'mem', 'disk'])
     resource_consumption = df.loc[:, 'cpu'].mean()
     return resource_consumption
