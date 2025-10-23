@@ -1,0 +1,447 @@
+2024-05-26 13:38:44,855 [INFO] m.Main Starting EDGE2 components
+2024-05-26 13:38:44,971 [INFO] m.Main Starting C components
+2024-05-26 13:38:45,139 [INFO] m.Main Starting S components
+2024-05-26 13:38:45,182 [INFO] m.Main Starting V components
+2024-05-26 13:38:45,176 [INFO] m.Main Starting E components
+2024-05-26 13:38:45,196 [INFO] m.Main Starting D components
+2024-05-26 13:38:45,200 [INFO] m.Main Starting EDGE1 components
+2024-05-26 13:38:45,262 [INFO] m.Main Starting METAVERSE components
+2024-05-26 13:38:45,280 [INFO] m.Main Activating paho780850899698882
+2024-05-26 13:38:45,292 [INFO] m.Main Activating paho780850900489009
+2024-05-26 13:38:45,292 [INFO] m.Main Starting B components
+2024-05-26 13:38:45,302 [INFO] m.Main Activating paho780850897993551
+2024-05-26 13:38:45,324 [INFO] m.Main Starting G components
+2024-05-26 13:38:45,461 [INFO] m.Main Activating paho780851077872989
+2024-05-26 13:38:45,462 [INFO] m.Main Activating paho780851080964299
+2024-05-26 13:38:45,475 [INFO] m.Main Activating paho780851077642403
+2024-05-26 13:38:45,476 [INFO] m.Main Activating paho780851076629064
+2024-05-26 13:38:45,497 [INFO] m.Main Activating paho780851077920831
+2024-05-26 13:38:45,510 [INFO] m.Main Activating paho780851080527129
+2024-05-26 13:38:45,536 [INFO] m.Main Activating paho780851081252162
+2024-05-26 13:38:45,559 [INFO] m.Main Activating paho780851078138984
+2024-05-26 13:38:45,622 [INFO] m.Main Activating paho780851242670454
+2024-05-26 13:38:45,630 [INFO] m.Main Activating paho780851249930893
+2024-05-26 13:38:45,631 [INFO] m.Main Activating paho780851248392590
+2024-05-26 13:38:45,631 [INFO] m.Main Activating paho780851249492626
+2024-05-26 13:38:45,631 [INFO] m.Main Activating paho780851249435540
+2024-05-26 13:38:45,632 [INFO] m.Main Activating paho780851246104469
+2024-05-26 13:38:45,633 [INFO] m.Main Activating paho780851250208069
+2024-05-26 13:38:45,635 [INFO] m.Main Activating paho780851241586143
+2024-05-26 13:38:45,639 [INFO] m.Main Activating paho780851250993824
+2024-05-26 13:38:45,633 [INFO] m.Main Activating paho780851245561598
+2024-05-26 13:38:45,672 [INFO] m.Main Activating paho780851290258506
+2024-05-26 13:38:45,701 [INFO] m.Main Activating paho780851247509526
+2024-05-26 13:38:45,724 [INFO] m.Main Activating paho780851345017020
+2024-05-26 13:38:45,725 [INFO] m.Main Activating paho780851345192755
+2024-05-26 13:38:45,727 [INFO] m.Main Activating paho780851291821774
+2024-05-26 13:38:45,729 [INFO] m.Main Activating paho780851245828778
+2024-05-26 13:38:45,731 [INFO] m.Main Activating paho780851250765427
+2024-05-26 13:38:45,735 [INFO] m.Main Activating paho780851246850466
+2024-05-26 13:38:45,739 [INFO] m.Main Activating paho780851249886208
+2024-05-26 13:38:45,751 [INFO] m.Main Activating paho780851337641259
+2024-05-26 13:38:45,751 [INFO] m.Main Activating paho780851358657258
+2024-05-26 13:38:45,751 [INFO] m.Main Activating paho780851247247875
+2024-05-26 13:38:45,755 [INFO] m.Main Activating paho780851348086429
+2024-05-26 13:38:45,759 [INFO] m.Main Activating paho780851344816043
+2024-05-26 13:38:45,759 [INFO] m.Main Activating paho780851344560663
+2024-05-26 13:38:45,769 [INFO] m.Main Activating paho780851283132564
+2024-05-26 13:38:45,769 [INFO] m.Main Activating paho780851355425950
+2024-05-26 13:38:45,772 [INFO] v.VirtualSensor paho780850899698882subscribed to topic/+/humidity
+2024-05-26 13:38:45,773 [INFO] m.Main Activating paho780851291143588
+2024-05-26 13:38:45,773 [INFO] v.VirtualSensor paho780850899698882subscribed to topic/+/temperature
+2024-05-26 13:38:45,773 [INFO] v.VirtualSensor paho780850897993551subscribed to topic/+/rfid
+2024-05-26 13:38:45,774 [INFO] v.VirtualSensor paho780850899698882subscribed to topic/+/air_quality
+2024-05-26 13:38:45,774 [INFO] v.VirtualSensor paho780850899698882 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:45,775 [INFO] m.Main Activating paho780851343835141
+2024-05-26 13:38:45,780 [INFO] v.VirtualSensor paho780850897993551subscribed to topic/+/video
+2024-05-26 13:38:45,780 [INFO] v.VirtualSensor paho780850897993551 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:45,781 [INFO] m.Main Activating paho780851078182938
+2024-05-26 13:38:45,791 [INFO] m.Main Activating paho780851353318490
+2024-05-26 13:38:45,800 [INFO] v.VirtualSensor paho780850900489009subscribed to topic/+/noise
+2024-05-26 13:38:45,801 [INFO] m.Main Activating paho780851291607420
+2024-05-26 13:38:45,801 [INFO] m.Main Activating paho780851290891066
+2024-05-26 13:38:45,802 [INFO] m.Main Activating paho780851290850382
+2024-05-26 13:38:45,803 [INFO] v.VirtualSensor paho780850900489009subscribed to topic/+/humidity
+2024-05-26 13:38:45,804 [INFO] m.Main Activating paho780851082002102
+2024-05-26 13:38:45,806 [INFO] v.VirtualSensor paho780850900489009subscribed to topic/+/temperature
+2024-05-26 13:38:45,807 [INFO] v.VirtualSensor paho780850900489009subscribed to topic/+/air_quality
+2024-05-26 13:38:45,811 [INFO] v.VirtualSensor paho780850900489009subscribed to topic/+/proximity
+2024-05-26 13:38:45,811 [INFO] v.VirtualSensor paho780850900489009 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:45,816 [INFO] m.Main Activating paho780851372356861
+2024-05-26 13:38:45,819 [INFO] m.Main Activating paho780851352887064
+2024-05-26 13:38:45,821 [INFO] m.Main Activating paho780851420664242
+2024-05-26 13:38:45,824 [INFO] m.Main Activating paho780851282471396
+2024-05-26 13:38:45,824 [INFO] m.Main Activating paho780851081758723
+2024-05-26 13:38:45,831 [INFO] m.Main Activating paho780851366702942
+2024-05-26 13:38:45,833 [INFO] m.Main Activating paho780851421084187
+2024-05-26 13:38:45,839 [INFO] m.Main Activating paho780851247286581
+2024-05-26 13:38:45,854 [INFO] m.Main Activating paho780851291372667
+2024-05-26 13:38:45,857 [INFO] m.Main Activating paho780851420704424
+2024-05-26 13:38:45,848 [INFO] m.Main Activating paho780851357587904
+2024-05-26 13:38:45,860 [INFO] m.Main Activating paho780851337682122
+2024-05-26 13:38:45,860 [INFO] m.Main Activating paho780851292335372
+2024-05-26 13:38:45,861 [INFO] m.Main Activating paho780851283450426
+2024-05-26 13:38:45,862 [INFO] m.Main Activating paho780851249147906
+2024-05-26 13:38:45,871 [INFO] m.Main Activating paho780851358408023
+2024-05-26 13:38:45,873 [INFO] m.Main Activating paho780851292376819
+2024-05-26 13:38:45,856 [INFO] m.Main Activating paho780851077325655
+2024-05-26 13:38:45,871 [INFO] m.Main Activating paho780851355588743
+2024-05-26 13:38:45,895 [INFO] m.Main Activating paho780851245236712
+2024-05-26 13:38:45,900 [INFO] m.Main Activating paho780851245621307
+2024-05-26 13:38:45,900 [INFO] m.Main Activating paho780851440503400
+2024-05-26 13:38:45,903 [INFO] m.Main Activating paho780851357873924
+2024-05-26 13:38:45,919 [INFO] m.Main Activating paho780851358698468
+2024-05-26 13:38:45,922 [INFO] m.Main Activating paho780851359453774
+2024-05-26 13:38:45,924 [INFO] m.Main Activating paho780851359691341
+2024-05-26 13:38:45,926 [INFO] m.Main Activating paho780851441744058
+2024-05-26 13:38:45,927 [INFO] m.Main Activating paho780851248857437
+2024-05-26 13:38:45,943 [INFO] m.Main Activating paho780851291409569
+2024-05-26 13:38:45,924 [INFO] m.Main Activating paho780851357914270
+2024-05-26 13:38:45,971 [INFO] m.Main Activating paho780851251348838
+2024-05-26 13:38:45,975 [INFO] m.Main Activating paho780851440361872
+2024-05-26 13:38:45,978 [INFO] m.Main Activating paho780851421166326
+2024-05-26 13:38:45,999 [INFO] m.Main Activating paho780851248043022
+2024-05-26 13:38:46,007 [INFO] m.Main Activating paho780851421203618
+2024-05-26 13:38:46,012 [INFO] m.Main Activating paho780851337016772
+2024-05-26 13:38:46,028 [INFO] m.Main Activating paho780851337381060
+2024-05-26 13:38:46,035 [INFO] m.Main Activating paho780851440455592
+2024-05-26 13:38:46,038 [INFO] m.Main Activating paho780851353280874
+2024-05-26 13:38:46,051 [INFO] m.Main Activating paho780851427838555
+2024-05-26 13:38:46,054 [INFO] v.VirtualSensor paho780851241586143subscribed to topic/+/rfid
+2024-05-26 13:38:46,055 [INFO] v.VirtualSensor paho780851241586143 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:46,081 [INFO] m.Main Activating paho780851335960549
+2024-05-26 13:38:46,087 [INFO] m.Main Activating paho780851356275658
+2024-05-26 13:38:46,088 [INFO] v.VirtualSensor paho780851242670454subscribed to topic/+/video
+2024-05-26 13:38:46,090 [INFO] v.VirtualSensor paho780851242670454subscribed to topic/+/door
+2024-05-26 13:38:46,096 [INFO] v.VirtualSensor paho780851242670454subscribed to topic/+/motion
+2024-05-26 13:38:46,096 [INFO] v.VirtualSensor paho780851242670454 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:46,125 [INFO] m.Main Activating paho780851338214933
+2024-05-26 13:38:46,139 [INFO] m.Main Activating paho780851358363097
+2024-05-26 13:38:46,173 [INFO] a.Security [SUB] paho780851344560663subscribed to topic/security
+2024-05-26 13:38:46,174 [INFO] a.Security security-paho780851344560663 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:46,181 [INFO] a.VisitorGuiding [SUB] paho780851344816043subscribed to topic/queueing
+2024-05-26 13:38:46,181 [INFO] a.Maintenance [SUB] paho780851345192755subscribed to topic/maintenance
+2024-05-26 13:38:46,182 [INFO] a.Maintenance maintenance-paho780851345192755 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:46,182 [INFO] a.SmartLighting [SUB] paho780851345017020subscribed to topic/+/lighting
+2024-05-26 13:38:46,182 [INFO] a.SmartLighting smart_lighting-paho780851345017020 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:46,182 [INFO] a.VisitorGuiding [SUB] paho780851344816043subscribed to topic/occupancy
+2024-05-26 13:38:46,182 [INFO] a.VisitorGuiding visitor_guiding-paho780851344816043 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:46,191 [INFO] m.Main Activating paho780851356222212
+2024-05-26 13:38:46,199 [INFO] a.Metaverse [SUB] paho780851343835141subscribed to topic/+/rfid
+2024-05-26 13:38:46,201 [INFO] a.Metaverse [SUB] paho780851343835141subscribed to topic/+/noise
+2024-05-26 13:38:46,201 [INFO] a.Metaverse [SUB] paho780851343835141subscribed to topic/+/lighting
+2024-05-26 13:38:46,202 [INFO] a.Metaverse metaverse-paho780851343835141 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:46,184 [INFO] m.Main Activating paho780851441785845
+2024-05-26 13:38:46,277 [INFO] m.Main Activating paho780851291178714
+2024-05-26 13:38:46,319 [INFO] m.Main Activating paho780851291641663
+2024-05-26 13:38:46,327 [INFO] m.Main Activating paho780851283184915
+2024-05-26 13:38:46,394 [INFO] m.Main Activating paho780851293060329
+2024-05-26 13:38:46,415 [INFO] m.Main Activating paho780851245606114
+2024-05-26 13:38:46,421 [INFO] m.Main Activating paho780851251036746
+2024-05-26 13:38:46,451 [INFO] m.Main Activating paho780851291855245
+2024-05-26 13:38:46,468 [INFO] m.Main Activating paho780851414578677
+2024-05-26 13:38:46,468 [INFO] m.Main Activating paho780851246151876
+2024-05-26 13:38:46,477 [INFO] m.Main Activating paho780851338464755
+2024-05-26 13:38:46,500 [INFO] m.Main Activating paho780851292632699
+2024-05-26 13:38:46,535 [INFO] m.Main Activating paho780851420781912
+2024-05-26 13:38:46,583 [INFO] m.Main Activating paho780851420745541
+2024-05-26 13:38:46,603 [INFO] m.Main Activating paho780851357542785
+2024-05-26 13:38:46,635 [INFO] m.Main Activating paho780851421123623
+2024-05-26 13:38:46,715 [INFO] m.Main Activating paho780851358907629
+2024-05-26 13:38:46,748 [INFO] m.Main Activating paho780851352840487
+2024-05-26 13:38:46,751 [INFO] m.Main Activating paho780851358949534
+2024-05-26 13:38:46,783 [INFO] m.Main Activating paho780851358162159
+2024-05-26 13:38:46,816 [INFO] m.Main Activating paho780851338835205
+2024-05-26 13:38:46,827 [INFO] m.Main Activating paho780851359413817
+2024-05-26 13:38:46,870 [INFO] m.Main Activating paho780851337419775
+2024-05-26 13:38:46,879 [INFO] m.Main Activating paho780851244495501
+2024-05-26 13:38:46,915 [INFO] m.Main Activating paho780851355632349
+2024-05-26 13:38:47,055 [INFO] d.IoTdevice airquality-paho780851080964299 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,057 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:47,223 [INFO] d.IoTdevice proximity-paho780851077920831 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,224 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:47,235 [INFO] m.Main Activating paho780851440404336
+2024-05-26 13:38:47,232 [INFO] d.IoTdevice airquality-paho780851352887064 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,243 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:47,248 [INFO] d.IoTdevice proximity-paho780851078138984 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,249 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:47,249 [INFO] d.IoTdevice door-paho780851076629064 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,250 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:47,263 [INFO] m.Main Activating paho780851427785461
+2024-05-26 13:38:47,269 [INFO] d.IoTdevice humidity-paho780851250208069 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,272 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:47,320 [INFO] m.Main Activating paho780851442030524
+2024-05-26 13:38:47,399 [INFO] m.Main Activating paho780851442518290
+2024-05-26 13:38:47,479 [INFO] m.Main Activating paho780851441220939
+2024-05-26 13:38:47,483 [INFO] m.Main Activating paho780851421245427
+2024-05-26 13:38:47,491 [INFO] m.Main Activating paho780851245872988
+2024-05-26 13:38:47,471 [INFO] d.IoTdevice light-paho780851077872989 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,507 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:47,599 [INFO] d.IoTdevice camera-paho780851082002102 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,599 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:47,607 [INFO] m.Main Activating paho780851250717990
+2024-05-26 13:38:47,622 [INFO] m.Main Activating paho780851440950795
+2024-05-26 13:38:47,648 [INFO] m.Main Activating paho780851420203035
+2024-05-26 13:38:47,683 [INFO] d.IoTdevice light-paho780851077642403 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,683 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:47,706 [INFO] d.IoTdevice noise-paho780851078182938 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,707 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:47,759 [INFO] d.IoTdevice airquality-paho780851249930893 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,759 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:47,783 [INFO] d.IoTdevice temperature-paho780851080527129 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,783 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:47,807 [INFO] d.IoTdevice rfid-paho780851081758723 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,807 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:47,811 [INFO] d.IoTdevice light-paho780851337641259 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,812 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:47,865 [INFO] d.IoTdevice proximity-paho780851291143588 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,875 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:47,956 [INFO] d.IoTdevice light-paho780851421084187 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,958 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:47,991 [INFO] d.IoTdevice humidity-paho780851081252162 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:47,992 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,089 [INFO] d.IoTdevice light-paho780851245828778 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,090 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:48,116 [INFO] d.IoTdevice motion-paho780851077325655 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,116 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,139 [INFO] d.IoTdevice motion-paho780851245561598 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,139 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,152 [INFO] d.IoTdevice proximity-paho780851247509526 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,170 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,171 [INFO] d.IoTdevice door-paho780851245621307 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,171 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,179 [INFO] d.IoTdevice humidity-paho780851353318490 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,180 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,240 [INFO] d.IoTdevice motion-paho780851246850466 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,244 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,351 [INFO] d.IoTdevice temperature-paho780851348086429 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,351 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,372 [INFO] d.IoTdevice temperature-paho780851249886208 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,372 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,451 [INFO] d.IoTdevice motion-paho780851247247875 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,452 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,453 [INFO] d.IoTdevice light-paho780851247286581 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,453 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:48,515 [INFO] d.IoTdevice rfid-paho780851250993824 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,516 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,531 [INFO] d.IoTdevice noise-paho780851248043022 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,532 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:48,704 [INFO] d.IoTdevice camera-paho780851251348838 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,704 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:48,706 [INFO] d.IoTdevice temperature-paho780851249492626 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,706 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,783 [INFO] d.IoTdevice humidity-paho780851249147906 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,783 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,823 [INFO] d.IoTdevice temperature-paho780851291607420 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,824 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,863 [INFO] d.IoTdevice noise-paho780851249435540 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,863 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:48,891 [INFO] m.Main Activating paho780851415317203
+2024-05-26 13:38:48,939 [INFO] d.IoTdevice airquality-paho780851358698468 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,941 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,950 [INFO] d.IoTdevice camera-paho780851251036746 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,950 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:48,955 [INFO] d.IoTdevice proximity-paho780851246104469 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,955 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:48,991 [INFO] d.IoTdevice airquality-paho780851248857437 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:48,991 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:48,995 [INFO] m.Main Activating paho780851440909290
+2024-05-26 13:38:49,039 [INFO] d.IoTdevice temperature-paho780851248392590 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,039 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:49,144 [INFO] d.IoTdevice rfid-paho780851250765427 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,144 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:49,146 [INFO] d.IoTdevice airquality-paho780851353280874 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,147 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:49,186 [INFO] d.IoTdevice noise-paho780851291372667 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,186 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:49,187 [INFO] m.Main Activating paho780851441262442
+2024-05-26 13:38:49,194 [INFO] d.IoTdevice motion-paho780851337381060 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,194 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:49,271 [INFO] d.IoTdevice motion-paho780851245236712 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,272 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:49,307 [INFO] d.IoTdevice camera-paho780851366702942 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,307 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:49,346 [INFO] d.IoTdevice door-paho780851335960549 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,346 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:49,514 [INFO] d.IoTdevice airquality-paho780851291821774 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,514 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:49,527 [INFO] d.IoTdevice humidity-paho780851441744058 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,528 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:49,627 [INFO] d.IoTdevice light-paho780851357587904 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,628 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:49,654 [INFO] d.IoTdevice proximity-paho780851337682122 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,655 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:49,718 [INFO] d.IoTdevice motion-paho780851356275658 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,727 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:49,735 [INFO] d.IoTdevice motion-paho780851420664242 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,736 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:49,831 [INFO] d.IoTdevice proximity-paho780851245872988 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,835 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:49,811 [INFO] d.IoTdevice light-paho780851420781912 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,855 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:49,919 [INFO] d.IoTdevice noise-paho780851246151876 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,919 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:49,947 [INFO] d.IoTdevice camera-paho780851372356861 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,947 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:49,999 [INFO] d.IoTdevice light-paho780851245606114 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:49,999 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:50,071 [INFO] d.IoTdevice humidity-paho780851250717990 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,071 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:50,096 [INFO] d.IoTdevice door-paho780851244495501 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,097 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:50,117 [INFO] d.IoTdevice temperature-paho780851291409569 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,124 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:50,144 [INFO] d.IoTdevice camera-paho780851359691341 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,144 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:50,130 [INFO] d.IoTdevice motion-paho780851337016772 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,161 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:50,165 [INFO] d.IoTdevice humidity-paho780851355588743 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,165 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:50,165 [INFO] d.IoTdevice temperature-paho780851440503400 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,166 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 20.0 -- sensing period = 10.0
+2024-05-26 13:38:50,204 [INFO] d.IoTdevice rfid-paho780851359453774 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,205 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:50,243 [INFO] d.IoTdevice rfid-paho780851292376819 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,243 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:50,435 [INFO] d.IoTdevice light-paho780851357873924 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,435 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:50,467 [INFO] d.IoTdevice temperature-paho780851358408023 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,468 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:50,487 [INFO] d.IoTdevice light-paho780851290850382 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,487 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:50,489 [INFO] d.IoTdevice light-paho780851290258506 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,489 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:50,536 [INFO] d.IoTdevice temperature-paho780851358657258 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,537 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:50,585 [INFO] d.IoTdevice proximity-paho780851338214933 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,586 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:50,643 [INFO] d.IoTdevice light-paho780851337419775 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,643 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:50,807 [INFO] d.IoTdevice proximity-paho780851357914270 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,808 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:50,847 [INFO] d.IoTdevice humidity-paho780851292335372 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,847 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:50,854 [INFO] d.IoTdevice door-paho780851355425950 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,855 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:50,868 [INFO] d.IoTdevice temperature-paho780851352840487 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,869 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:50,967 [INFO] d.IoTdevice motion-paho780851283450426 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:50,967 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:51,046 [INFO] d.IoTdevice noise-paho780851338835205 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,046 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:51,091 [INFO] d.IoTdevice motion-paho780851357542785 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,091 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:51,166 [INFO] d.IoTdevice noise-paho780851338464755 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,166 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:51,303 [INFO] d.IoTdevice rfid-paho780851355632349 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,303 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:51,623 [INFO] d.IoTdevice motion-paho780851283184915 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,623 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:51,625 [INFO] d.IoTdevice camera-paho780851293060329 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,625 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:51,627 [INFO] d.IoTdevice noise-paho780851291178714 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,627 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:51,628 [INFO] d.IoTdevice camera-paho780851292632699 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,628 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:51,628 [INFO] d.IoTdevice door-paho780851283132564 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,629 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:51,629 [INFO] d.IoTdevice proximity-paho780851290891066 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,629 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:51,629 [INFO] d.IoTdevice humidity-paho780851291855245 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,629 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:51,812 [INFO] d.IoTdevice airquality-paho780851358907629 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,813 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:51,813 [INFO] d.IoTdevice noise-paho780851358162159 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,813 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:51,813 [INFO] d.IoTdevice noise-paho780851358363097 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,813 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:51,814 [INFO] d.IoTdevice humidity-paho780851359413817 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,814 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:51,847 [INFO] d.IoTdevice airquality-paho780851291641663 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,847 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:51,903 [INFO] d.IoTdevice humidity-paho780851358949534 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,903 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:51,911 [INFO] d.IoTdevice door-paho780851282471396 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,911 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:51,959 [INFO] d.IoTdevice door-paho780851356222212 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:51,959 [INFO] d.IoTdevice Period 1: number of people = 1.0 -- initial sensing period = 10.0 -- sensing period = 10.0
+2024-05-26 13:38:52,832 [INFO] d.IoTdevice motion-paho780851420704424 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:52,832 [INFO] d.IoTdevice noise-paho780851440361872 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:52,833 [INFO] d.IoTdevice light-paho780851421166326 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:52,835 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:52,835 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:52,832 [INFO] d.IoTdevice light-paho780851421203618 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:52,838 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:52,832 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:53,247 [INFO] d.IoTdevice door-paho780851414578677 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,247 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:53,339 [INFO] d.IoTdevice noise-paho780851440455592 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,339 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:53,387 [INFO] d.IoTdevice rfid-paho780851441785845 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,387 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:53,431 [INFO] d.IoTdevice noise-paho780851427838555 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,431 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:53,494 [INFO] d.IoTdevice proximity-paho780851421245427 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,494 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:53,567 [INFO] d.IoTdevice airquality-paho780851440950795 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,567 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:53,651 [INFO] d.IoTdevice airquality-paho780851441220939 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,652 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:38:53,752 [INFO] d.IoTdevice motion-paho780851420745541 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,753 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:53,848 [INFO] d.IoTdevice light-paho780851421123623 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,849 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:53,883 [INFO] d.IoTdevice noise-paho780851440404336 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,883 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 5.0 -- sensing period = 5.0
+2024-05-26 13:38:53,917 [INFO] d.IoTdevice proximity-paho780851427785461 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:53,920 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:54,005 [INFO] d.IoTdevice camera-paho780851442030524 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:54,005 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:54,115 [INFO] d.IoTdevice door-paho780851415317203 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:54,116 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:54,271 [INFO] d.IoTdevice motion-paho780851420203035 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:54,271 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 10.0 -- sensing period = 5.0
+2024-05-26 13:38:54,419 [INFO] d.IoTdevice camera-paho780851442518290 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:54,419 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 2.0 -- sensing period = 2.0
+2024-05-26 13:38:54,658 [INFO] d.IoTdevice temperature-paho780851440909290 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:54,658 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 20.0 -- sensing period = 10.0
+2024-05-26 13:38:54,931 [INFO] d.IoTdevice humidity-paho780851441262442 activated! Connected to broker on tcp://10.0.0.240:1883
+2024-05-26 13:38:54,934 [INFO] d.IoTdevice Period 1: number of people = 2.0 -- initial sensing period = 20.0 -- sensing period = 20.0
+2024-05-26 13:39:45,522 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,531 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,541 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:45,657 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:45,725 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:45,740 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,759 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,759 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,759 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,779 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,782 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:45,783 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,787 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,843 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,859 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,869 [INFO] d.IoTdevice [INFO] Period 2: number of people = 2.0 -- sensing period = 5.0
+2024-05-26 13:39:45,883 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,897 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:45,907 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:45,923 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,939 [INFO] d.IoTdevice [INFO] Period 2: number of people = 2.0 -- sensing period = 10.0
+2024-05-26 13:39:45,947 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,951 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:45,972 [INFO] d.IoTdevice [INFO] Period 2: number of people = 2.0 -- sensing period = 5.0
+2024-05-26 13:39:45,967 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:46,073 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,109 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,137 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,142 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,179 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,270 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,422 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,490 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,604 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,740 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:46,856 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 20.0
+2024-05-26 13:39:46,948 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
+2024-05-26 13:39:47,505 [INFO] d.IoTdevice [INFO] Period 2: number of people = 1.0 -- sensing period = 10.0
