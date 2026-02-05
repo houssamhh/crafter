@@ -4,7 +4,7 @@
 CRAFTER enables causal-based adaptation for self-adaptive IoT systems. This is achieved by (i) using causal discovery to generate causal graphs showing cause-effect relationships in IoT systems, and (ii) using Reinforcement Learning for taking adaptation actions at runtime. 
 This repository contains the source code of the CRAFTER implementation, along with an emulated network environment for using and testing CRAFTER.
 CRAFTER's high-level architecture is shown in the figure below.
-![CRAFTER architecture]['figures/architecture.png'].
+![CRAFTER architecture]('figures/architecture.png').
 
 ## Getting Started
 This repository contains the following directories:
